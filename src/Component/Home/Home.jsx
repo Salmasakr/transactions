@@ -106,6 +106,7 @@ export default function Home() {
 
   return (
     <>
+    <h1 className='text-center'>transactions</h1>
       <form className="max-w-md mx-auto my-7">
         <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
         <div className="relative">
