@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react'
-import { Table } from "flowbite-react";
+import React, { useEffect, useState } from 'react';
 import Graph from '../Graph/Graph';
 import axios from 'axios';
 export default function Home() {
